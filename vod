@@ -140,8 +140,6 @@ http://goo.gl/8kYiue
 http://goo.gl/UWlPYX
 #EXTINF:-1 tvg-logo="http://image3.putlockers.ch/images/covers/the-founder-online-free-putlocker.jpg" group-title="VOD Movies",The Founder
 http://goo.gl/uvxVLi
-#EXTINF:-1 tvg-logo="http://image3.putlockers.ch/images/covers/lion-online-free-putlocker.jpg" group-title="VOD Movies",Lion
-http://goo.gl/1h65IG
 #EXTINF:-1 tvg-logo="http://image3.putlockers.ch/images/covers/nocturnal-animals-online-free-putlocker.jpg" group-title="VOD Movies",Nocturnal Animals
 http://goo.gl/Ofwsyv
 #EXTINF:-1 tvg-logo="http://image3.putlockers.ch/images/covers/paterson-online-free-putlocker.jpg" group-title="VOD Movies",Paterson
@@ -186,8 +184,6 @@ http://goo.gl/4hy4F3
 http://goo.gl/50MRZH
 #EXTINF:-1 tvg-logo="http://image3.putlockers.ch/images/covers/clinical-online-free-putlocker.jpg" group-title="VOD Movies",Clinical
 http://goo.gl/SLazok
-#EXTINF:-1 tvg-logo="http://image3.putlockers.ch/images/covers/arrival-online-free-putlocker.jpg" group-title="VOD Movies",The Arrival
-http://goo.gl/HCRrFp
 #EXTINF:-1 tvg-logo="http://image3.putlockers.ch/images/covers/arsenal-online-free-putlocker.jpg" group-title="VOD Movies",Arsenal
 http://goo.gl/OytsVz
 #EXTINF:-1 tvg-logo="http://image3.putlockers.ch/images/covers/fantastic-beasts-and-where-to-find-them-online-free-putlocker.jpg" group-title="VOD Movies",Fantastic Beasts
@@ -944,6 +940,7 @@ http://185.176.192.21/vids/homeland.s06e05.720p.hdtv.x264-avs___58aadef1cf6be.mp
 http://185.176.192.22/vids/homeland.s06e06.the.return.1080p.amzn.webrip.dd5.1.x264-ntb___58b2cca144b8d.mp4
 #EXTINF:-1 tvg-logo="" group-title="HOMELAND", SEASON 6  ep7
 http://185.176.192.20/vids/homeland.s06e07.720p.hdtv.x264-avs___58bcf6310df20.mp4
+#EXTINF:-1 tvg-logo="" group-title="HOMELAND", SEASON 6  ep8
 
 
 
@@ -951,17 +948,47 @@ http://185.176.192.20/vids/homeland.s06e07.720p.hdtv.x264-avs___58bcf6310df20.mp
 
 
 
+PEAKY BLINDERS SEASON 1
+#EXTINF:-1 tvg-logo="" group-title="PEAKY BLINDERS", SEASON 1  ep1
+http://185.176.192.21/vids/peaky_blinders_season_1_-_episode_01___573a42e1e1182.mp4
+#EXTINF:-1 tvg-logo="" group-title="PEAKY BLINDERS", SEASON 1  ep2
+http://185.176.192.20/vids/peaky_blinders_season_1_-_episode_02___573a42e1e1818.mp4
+#EXTINF:-1 tvg-logo="" group-title="PEAKY BLINDERS", SEASON 1  ep3
+http://185.176.192.20/vids/peaky_blinders_season_1_-_episode_03___573a42e1e1a19.mp4
+#EXTINF:-1 tvg-logo="" group-title="PEAKY BLINDERS", SEASON 1  ep4
+http://185.176.192.22/vids/peaky_blinders_season_1_-_episode_04___573a42e1e1be4.mp4
+#EXTINF:-1 tvg-logo="" group-title="PEAKY BLINDERS", SEASON 1  ep5
+http://185.176.192.21/vids/peaky_blinders_season_1_-_episode_05___573a42e1e1da7.mp4
+#EXTINF:-1 tvg-logo="" group-title="PEAKY BLINDERS", SEASON 1  ep6
+http://185.176.192.21/vids/peaky_blinders_season_1_-_episode_06___573a42e1e1f77.mp4
 
+PEAKY BLINDERS SEASON 2
+#EXTINF:-1 tvg-logo="" group-title="PEAKY BLINDERS", SEASON 2  ep1
+http://185.176.192.20/vids/peaky_blinders-_season_02_-_episode_01___576abab12c589.mp4
+#EXTINF:-1 tvg-logo="" group-title="PEAKY BLINDERS", SEASON 2  ep2
+http://185.176.192.20/vids/peaky_blinders-_season_02_-_episode_02___576abab12c712.mp4
+#EXTINF:-1 tvg-logo="" group-title="PEAKY BLINDERS", SEASON 2  ep3
+http://185.176.192.21/vids/peaky_blinders-_season_02_-_episode_03___576abab12cc82.mp4
+#EXTINF:-1 tvg-logo="" group-title="PEAKY BLINDERS", SEASON 2  ep4
+http://185.176.192.24/vids/peaky_blinders-_season_02_-_episode_04___576abab12cef7.mp4
+#EXTINF:-1 tvg-logo="" group-title="PEAKY BLINDERS", SEASON 2  ep5
+http://185.176.192.20/vids/peaky_blinders-_season_02_-_episode_05___576abab12d1f3.mp4
+#EXTINF:-1 tvg-logo="" group-title="PEAKY BLINDERS", SEASON 2  ep6
+http://185.176.192.20/vids/peaky_blinders-_season_02_-_episode_06___576abab12d3e0.mp4
 
-
-
-
-
-
-
-
-
-
+PEAKY BLINDERS SEASON 2
+#EXTINF:-1 tvg-logo="" group-title="PEAKY BLINDERS", SEASON 3  ep1
+http://185.176.192.20/vids/peaky_blinders_s03e01_hdtv.xvid-afg___575ad5f176399.mp4
+#EXTINF:-1 tvg-logo="" group-title="PEAKY BLINDERS", SEASON 3  ep2
+http://185.176.192.22/vids/peaky.blinders.s03e02.hdtv.x264-tla_ettv___575ad141c03eb.mp4
+#EXTINF:-1 tvg-logo="" group-title="PEAKY BLINDERS", SEASON 3  ep3
+http://185.176.192.22/vids/peaky.blinders.s03e03.hdtv.x264-river_ettv___575ad141c0659.mp4
+#EXTINF:-1 tvg-logo="" group-title="PEAKY BLINDERS", SEASON 3  ep4
+http://185.176.192.22/vids/peaky.blinders.s03e04.hdtv.x264-brisk___575ad141bc577.mp4
+#EXTINF:-1 tvg-logo="" group-title="PEAKY BLINDERS", SEASON 3  ep5
+http://185.176.192.22/vids/peaky.blinders.s03e05.hdtv.x264-moritz___575ad141c094a.mp4
+#EXTINF:-1 tvg-logo="" group-title="PEAKY BLINDERS", SEASON 3  ep6
+http://185.176.192.21/vids/peaky.blinders.s03e06.hdtv.x264-tla_ettv___575ad141c0c4f.mp4
 
 
 
